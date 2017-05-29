@@ -30,3 +30,4 @@ Conducting rudimentary data science methodologies upon the dataset, I attempt to
  * Polyglot Session Notes.md --> the original notes that I took during the sessions
  * polygot.ipynb --> Interactive Python (Jupyter) Notebook where I perform the primary data analysis
  * data/xxx.csv --> various comma-separated-value files that were created based off of the markdown tables in order to parse the data easier in Python
+ * util.py --> Python file that includes utility functions that can be imported in all of the notebooks to allow for easy code re-use
