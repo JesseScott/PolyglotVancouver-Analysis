@@ -28,4 +28,5 @@ Conducting rudimentary data science methodologies upon the dataset, I attempt to
 
  * README.md --> this file
  * Polyglot Session Notes.md --> the original notes that I took during the sessions
- * polygot.ipynb --> Interactive Python (Jupyter) Notebook where I perform the primary data analysis 
+ * polygot.ipynb --> Interactive Python (Jupyter) Notebook where I perform the primary data analysis
+ * data/xxx.csv --> various comma-separated-value files that were created based off of the markdown tables in order to parse the data easier in Python

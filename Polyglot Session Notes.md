@@ -10,7 +10,7 @@ Let's graph how many speak and how many times they speak.
 We have 28 participants.
 
 
-| PERSON  | TALKS | GENDER | STAYED ? | NOTES |
+| PERSON  | TALKS | GENDER | STAYED | NOTES |
 |----|----|---|---|---|
 | H1 | 20 | M | Y |
 | 01 | 31 | M | Y | OMFG |
@@ -48,7 +48,7 @@ About halfway through someone asked us to implement a Fishbowl rule which levele
 Here are the metrics after that rule came into effect. (this also made it much easier for me to take these notes as things started slowing down !!)
 
 
-| PERSON  | TALKS | GENDER | STAYED ? | NOTES |
+| PERSON  | TALKS | GENDER | STAYED | NOTES |
 |----|----|---|---|---|
 | H1 | 09 | M | Y |
 | 01 | 09 | M | Y | OMFG |
@@ -83,7 +83,7 @@ Here are the metrics after that rule came into effect. (this also made it much e
 
 Here are the total combined sessions counts:
 
-| PERSON  | TALKS | GENDER | STAYED ? | NOTES |
+| PERSON  | TALKS | GENDER | STAYED | NOTES |
 |----|----|---|---|---|
 | H1 | 29 | M | Y |
 | 01 | 40 | M | Y | OMFG |
@@ -110,9 +110,9 @@ Here are the total combined sessions counts:
 | 22 | 00 | M | Y |  |
 | 23 | 00 | M | Y |  |
 | 24 | 00 | M | Y |  |
-| 25 | 00 | M | Y |  |
-| 26 | 00 | M | Y |  |
-| 27 | 00 | M | Y |  |
+| 25 | 00 | M | N |  |
+| 26 | 00 | M | N |  |
+| 27 | 00 | M | N |  |
 | 28 | 00 | F | N |  |
 
 
@@ -124,7 +124,7 @@ Here are the total combined sessions counts:
 Open ended, inclusive, questioning, conversational.
 
 
-| PERSON  | TALKS | GENDER | STAYED ? | NOTES |
+| PERSON  | TALKS | GENDER | STAYED | NOTES |
 |----|----|---|---|---|
 | H1 | 12 | M | Y | |
 | H2 | 18 | M | Y | |
@@ -151,7 +151,7 @@ Open ended, inclusive, questioning, conversational.
 
 Back and Forth Q&A where one person who was apparently a Senior Developer answered (injected his opinion) on every question.
 
-| PERSON  | TALKS | GENDER | STAYED ? | NOTES |
+| PERSON  | TALKS | GENDER | STAYED | NOTES |
 |----|----|---|---|---|
 | H1 | 05 | M | Y |
 | 01 | 23 | M | Y | Also #3 from SOLID session |
@@ -213,7 +213,7 @@ This was more of a presentation by Grace, so there was less back and forth.
 
 Whiteboarding exercise, presenter was unstructured but mainly kept control of the conversation.
 
-| PERSON  | TALKS | GENDER | STAYED ? | NOTES |
+| PERSON  | TALKS | GENDER | STAYED | NOTES |
 |----|----|---|---|---|
 | H1 | 27 | M | Y | |
 | 01 | 01 | M | Y | |
