@@ -24,6 +24,18 @@ Aside from the amount of time(s) that someone spoke, I decided to track their ge
 
 Conducting rudimentary data science methodologies upon the dataset, I attempt to visualize the extent of disparity in the amount of public voice that certain persons and certain demographics were granted or able to affect.
 
+### Conclusions
+
+First of, let me say that in no way am I trying to throw Polyglot under the bus, though I do have some concrete suggestions for them that I will be presenting alongside this data. These include:
+  * training more staff / volunteers on hosting / mediation techniques
+  * ensuring that there is one volunteer per session that can host / introduce / mediate as needed
+  * owning their own data by making visible what demographic breakdown they see before the event
+  * creation of a tracking plan - alongside robust ethical guidelines (that i admit i did not adhere to) - to execute during the event
+  * reach out to other local and international groups, associations, federations, that have experience doing Un-Conferences and have been trained in horizontal facilitation
+  * work with minority groups - along racial, gender, and class lines - as stakeholders in attempting to create the type of event that we all want to see
+
+Second... what is it with some people ? Seriously, this is a case of a few offenders skewing the data so bad that they can almost be classified as outliers. I definitely found that certain types of sessions gave different experiences, and some engendered conversation better than others. And Session 04, which was a presentation, seemed like a welcome respite halfway through the day.
+
 ### Files
 
  * README.md --> this file
